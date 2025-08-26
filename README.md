@@ -1,0 +1,2 @@
+# ShopMini-is-a-lightweight-e-commerce-platform-built-with-Ruby-on-Rails
+ShopMini is a lightweight e-commerce platform built with Ruby on Rails, designed to simulate core commerce workflows. It includes user authentication, product catalog management, cart functionality, and basic order processing while following secure development practices (CSRF protection, strong parameters, role-based access control).
