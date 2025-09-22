@@ -18,7 +18,7 @@
 - Devise (authentication), Pundit (authorization)
 
 
-## Project Structure (key files included in this repo sample)
+## Project Structure (key files included)
 - `app/models/` : `user.rb`, `product.rb`, `cart_item.rb`, `order.rb`, `order_item.rb`
 - `app/controllers/` : `application_controller.rb`, `products_controller.rb`, `cart_items_controller.rb`, `carts_controller.rb`, `orders_controller.rb`
 - `config/routes.rb` : main routes
